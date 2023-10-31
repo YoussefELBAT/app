@@ -1,0 +1,4 @@
+source "Kconfig.zephyr"
+config LIBRARY
+	bool "Enable my function"
+	default n

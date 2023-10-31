@@ -1,0 +1,32 @@
+
+# Définition des fonctions :
+
+chaque fonction commence par un "SY" suivi du nom de la fonction sur deux mots
+Exemple :
+
+void SY_calcul_temperature() {  
+.
+.
+.
+}  
+
+
+# Définition des variables :
+
+Temperature_G
+Temperature_L
+
+
+
+# Pas de définition de fonction dans le Main.c
+
+# PAS DE DEFINITION DANS LES FICHIERS.H !
+
+# PAS DE DECLARATION DANS LES FICHIERS.C !
+
+
+# Un fichiers .h  et .c pour chaque composante du système ( exemple capteur )
+
+
+
+ 

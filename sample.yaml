@@ -1,0 +1,8 @@
+sample:
+  description: Sycon Application
+  name: SY APP
+common:
+  platform_allow: > 
+    - thingy53_nrf5340_cpuapp
+    - thingy53_nrf5340_cpuapp_ns
+  tags: sycon
